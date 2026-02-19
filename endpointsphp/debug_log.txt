@@ -1,0 +1,2545 @@
+[2024-11-25 20:14:46] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.05}}
+[2024-11-25 20:14:46] Archivo CSV creado con encabezados
+[2024-11-25 20:14:46] Registro escrito en CSV: NTU=69.1, pH=7.05
+[2024-11-25 20:14:46] Datos almacenados exitosamente en CSV
+[2024-11-25 20:14:46] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.15}}
+[2024-11-25 20:14:46] Registro escrito en CSV: NTU=68.6, pH=7.15
+[2024-11-25 20:14:46] Datos almacenados exitosamente en CSV
+[2024-11-25 20:14:47] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.05}}
+[2024-11-25 20:14:47] Registro escrito en CSV: NTU=71.4, pH=7.05
+[2024-11-25 20:14:47] Datos almacenados exitosamente en CSV
+[2024-11-25 20:14:49] Datos recibidos: {"datos":{"ntu":75.5,"ph":7.02}}
+[2024-11-25 20:14:49] Registro escrito en CSV: NTU=75.5, pH=7.02
+[2024-11-25 20:14:49] Datos almacenados exitosamente en CSV
+[2024-11-25 20:14:50] Datos recibidos: {"datos":{"ntu":76.9,"ph":7.02}}
+[2024-11-25 20:14:50] Registro escrito en CSV: NTU=76.9, pH=7.02
+[2024-11-25 20:14:50] Datos almacenados exitosamente en CSV
+[2024-11-25 20:14:52] Datos recibidos: {"datos":{"ntu":76.9,"ph":7.05}}
+[2024-11-25 20:14:52] Registro escrito en CSV: NTU=76.9, pH=7.05
+[2024-11-25 20:14:52] Datos almacenados exitosamente en CSV
+[2024-11-25 20:14:54] Datos recibidos: {"datos":{"ntu":76.9,"ph":7.05}}
+[2024-11-25 20:14:54] Registro escrito en CSV: NTU=76.9, pH=7.05
+[2024-11-25 20:14:54] Datos almacenados exitosamente en CSV
+[2024-11-25 20:14:56] Datos recibidos: {"datos":{"ntu":85.3,"ph":6.77}}
+[2024-11-25 20:14:56] Registro escrito en CSV: NTU=85.3, pH=6.77
+[2024-11-25 20:14:56] Datos almacenados exitosamente en CSV
+[2024-11-25 20:14:57] Datos recibidos: {"datos":{"ntu":93.7,"ph":6.58}}
+[2024-11-25 20:14:57] Registro escrito en CSV: NTU=93.7, pH=6.58
+[2024-11-25 20:14:57] Datos almacenados exitosamente en CSV
+[2024-11-25 20:14:59] Datos recibidos: {"datos":{"ntu":50.4,"ph":7.79}}
+[2024-11-25 20:14:59] Registro escrito en CSV: NTU=50.4, pH=7.79
+[2024-11-25 20:14:59] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:01] Datos recibidos: {"datos":{"ntu":62.1,"ph":7.18}}
+[2024-11-25 20:15:01] Registro escrito en CSV: NTU=62.1, pH=7.18
+[2024-11-25 20:15:01] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:03] Datos recibidos: {"datos":{"ntu":61.6,"ph":7.21}}
+[2024-11-25 20:15:03] Registro escrito en CSV: NTU=61.6, pH=7.21
+[2024-11-25 20:15:03] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:04] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:15:04] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:15:04] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:06] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.05}}
+[2024-11-25 20:15:06] Registro escrito en CSV: NTU=69.1, pH=7.05
+[2024-11-25 20:15:06] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:08] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.09}}
+[2024-11-25 20:15:08] Registro escrito en CSV: NTU=69.1, pH=7.09
+[2024-11-25 20:15:08] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:10] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.09}}
+[2024-11-25 20:15:10] Registro escrito en CSV: NTU=68.6, pH=7.09
+[2024-11-25 20:15:10] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:11] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.12}}
+[2024-11-25 20:15:11] Registro escrito en CSV: NTU=68.6, pH=7.12
+[2024-11-25 20:15:11] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:13] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.15}}
+[2024-11-25 20:15:13] Registro escrito en CSV: NTU=68.6, pH=7.15
+[2024-11-25 20:15:13] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:15] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.15}}
+[2024-11-25 20:15:15] Registro escrito en CSV: NTU=68.6, pH=7.15
+[2024-11-25 20:15:15] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:16] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.18}}
+[2024-11-25 20:15:16] Registro escrito en CSV: NTU=68.6, pH=7.18
+[2024-11-25 20:15:16] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:18] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.12}}
+[2024-11-25 20:15:18] Registro escrito en CSV: NTU=68.6, pH=7.12
+[2024-11-25 20:15:18] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:20] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.09}}
+[2024-11-25 20:15:20] Registro escrito en CSV: NTU=69.1, pH=7.09
+[2024-11-25 20:15:20] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:22] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.09}}
+[2024-11-25 20:15:22] Registro escrito en CSV: NTU=69.1, pH=7.09
+[2024-11-25 20:15:22] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:23] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:15:23] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:15:23] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:25] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:15:25] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:15:25] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:27] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:15:27] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:15:27] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:29] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.12}}
+[2024-11-25 20:15:29] Registro escrito en CSV: NTU=71.4, pH=7.12
+[2024-11-25 20:15:29] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:30] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.09}}
+[2024-11-25 20:15:30] Registro escrito en CSV: NTU=71.4, pH=7.09
+[2024-11-25 20:15:30] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:32] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.12}}
+[2024-11-25 20:15:32] Registro escrito en CSV: NTU=71.4, pH=7.12
+[2024-11-25 20:15:32] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:34] Datos recibidos: {"datos":{"ntu":74.2,"ph":7.12}}
+[2024-11-25 20:15:34] Registro escrito en CSV: NTU=74.2, pH=7.12
+[2024-11-25 20:15:34] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:36] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.18}}
+[2024-11-25 20:15:36] Registro escrito en CSV: NTU=71.4, pH=7.18
+[2024-11-25 20:15:36] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:37] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.09}}
+[2024-11-25 20:15:37] Registro escrito en CSV: NTU=69.1, pH=7.09
+[2024-11-25 20:15:37] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:39] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.21}}
+[2024-11-25 20:15:39] Registro escrito en CSV: NTU=68.6, pH=7.21
+[2024-11-25 20:15:39] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:41] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.21}}
+[2024-11-25 20:15:41] Registro escrito en CSV: NTU=68.6, pH=7.21
+[2024-11-25 20:15:41] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:43] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.15}}
+[2024-11-25 20:15:43] Registro escrito en CSV: NTU=67.2, pH=7.15
+[2024-11-25 20:15:43] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:44] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.21}}
+[2024-11-25 20:15:44] Registro escrito en CSV: NTU=67.2, pH=7.21
+[2024-11-25 20:15:44] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:46] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.21}}
+[2024-11-25 20:15:46] Registro escrito en CSV: NTU=67.2, pH=7.21
+[2024-11-25 20:15:46] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:48] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.18}}
+[2024-11-25 20:15:48] Registro escrito en CSV: NTU=65.8, pH=7.18
+[2024-11-25 20:15:48] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:50] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.15}}
+[2024-11-25 20:15:50] Registro escrito en CSV: NTU=68.6, pH=7.15
+[2024-11-25 20:15:50] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:51] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:15:51] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:15:51] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:53] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.15}}
+[2024-11-25 20:15:53] Registro escrito en CSV: NTU=69.1, pH=7.15
+[2024-11-25 20:15:53] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:55] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:15:55] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:15:55] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:57] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.12}}
+[2024-11-25 20:15:57] Registro escrito en CSV: NTU=71.4, pH=7.12
+[2024-11-25 20:15:57] Datos almacenados exitosamente en CSV
+[2024-11-25 20:15:58] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.15}}
+[2024-11-25 20:15:58] Registro escrito en CSV: NTU=69.1, pH=7.15
+[2024-11-25 20:15:58] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:00] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:16:00] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:16:00] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:02] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.09}}
+[2024-11-25 20:16:02] Registro escrito en CSV: NTU=69.1, pH=7.09
+[2024-11-25 20:16:02] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:04] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:16:04] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:16:04] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:05] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.12}}
+[2024-11-25 20:16:05] Registro escrito en CSV: NTU=71.4, pH=7.12
+[2024-11-25 20:16:05] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:07] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.18}}
+[2024-11-25 20:16:07] Registro escrito en CSV: NTU=69.1, pH=7.18
+[2024-11-25 20:16:07] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:09] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:16:09] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:16:09] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:11] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.18}}
+[2024-11-25 20:16:11] Registro escrito en CSV: NTU=69.1, pH=7.18
+[2024-11-25 20:16:11] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:12] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.12}}
+[2024-11-25 20:16:12] Registro escrito en CSV: NTU=71.4, pH=7.12
+[2024-11-25 20:16:12] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:14] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.15}}
+[2024-11-25 20:16:14] Registro escrito en CSV: NTU=68.6, pH=7.15
+[2024-11-25 20:16:14] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:16] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.18}}
+[2024-11-25 20:16:16] Registro escrito en CSV: NTU=69.1, pH=7.18
+[2024-11-25 20:16:16] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:18] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.15}}
+[2024-11-25 20:16:18] Registro escrito en CSV: NTU=69.1, pH=7.15
+[2024-11-25 20:16:18] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:19] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.18}}
+[2024-11-25 20:16:19] Registro escrito en CSV: NTU=69.1, pH=7.18
+[2024-11-25 20:16:19] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:21] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.12}}
+[2024-11-25 20:16:21] Registro escrito en CSV: NTU=71.4, pH=7.12
+[2024-11-25 20:16:21] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:23] Datos recibidos: {"datos":{"ntu":72.8,"ph":7.09}}
+[2024-11-25 20:16:23] Registro escrito en CSV: NTU=72.8, pH=7.09
+[2024-11-25 20:16:23] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:25] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.15}}
+[2024-11-25 20:16:25] Registro escrito en CSV: NTU=71.4, pH=7.15
+[2024-11-25 20:16:25] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:26] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:16:26] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:16:26] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:28] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:16:28] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:16:28] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:30] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.15}}
+[2024-11-25 20:16:30] Registro escrito en CSV: NTU=69.1, pH=7.15
+[2024-11-25 20:16:30] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:32] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.21}}
+[2024-11-25 20:16:32] Registro escrito en CSV: NTU=69.1, pH=7.21
+[2024-11-25 20:16:32] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:33] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.21}}
+[2024-11-25 20:16:33] Registro escrito en CSV: NTU=69.1, pH=7.21
+[2024-11-25 20:16:33] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:35] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.12}}
+[2024-11-25 20:16:35] Registro escrito en CSV: NTU=69.1, pH=7.12
+[2024-11-25 20:16:35] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:37] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.25}}
+[2024-11-25 20:16:37] Registro escrito en CSV: NTU=67.2, pH=7.25
+[2024-11-25 20:16:37] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:38] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.18}}
+[2024-11-25 20:16:38] Registro escrito en CSV: NTU=68.6, pH=7.18
+[2024-11-25 20:16:38] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:40] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.15}}
+[2024-11-25 20:16:40] Registro escrito en CSV: NTU=69.1, pH=7.15
+[2024-11-25 20:16:40] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:42] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.15}}
+[2024-11-25 20:16:42] Registro escrito en CSV: NTU=68.6, pH=7.15
+[2024-11-25 20:16:42] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:44] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.15}}
+[2024-11-25 20:16:44] Registro escrito en CSV: NTU=69.1, pH=7.15
+[2024-11-25 20:16:44] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:45] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.18}}
+[2024-11-25 20:16:45] Registro escrito en CSV: NTU=67.2, pH=7.18
+[2024-11-25 20:16:45] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:47] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.18}}
+[2024-11-25 20:16:47] Registro escrito en CSV: NTU=67.2, pH=7.18
+[2024-11-25 20:16:47] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:49] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.15}}
+[2024-11-25 20:16:49] Registro escrito en CSV: NTU=67.2, pH=7.15
+[2024-11-25 20:16:49] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:51] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.28}}
+[2024-11-25 20:16:51] Registro escrito en CSV: NTU=65.8, pH=7.28
+[2024-11-25 20:16:51] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:52] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.05}}
+[2024-11-25 20:16:52] Registro escrito en CSV: NTU=69.1, pH=7.05
+[2024-11-25 20:16:52] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:54] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.18}}
+[2024-11-25 20:16:54] Registro escrito en CSV: NTU=68.6, pH=7.18
+[2024-11-25 20:16:54] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:56] Datos recibidos: {"datos":{"ntu":72.8,"ph":7.05}}
+[2024-11-25 20:16:56] Registro escrito en CSV: NTU=72.8, pH=7.05
+[2024-11-25 20:16:56] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:58] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.18}}
+[2024-11-25 20:16:58] Registro escrito en CSV: NTU=67.2, pH=7.18
+[2024-11-25 20:16:58] Datos almacenados exitosamente en CSV
+[2024-11-25 20:16:59] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.18}}
+[2024-11-25 20:16:59] Registro escrito en CSV: NTU=68.6, pH=7.18
+[2024-11-25 20:16:59] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:01] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.25}}
+[2024-11-25 20:17:01] Registro escrito en CSV: NTU=65.8, pH=7.25
+[2024-11-25 20:17:01] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:03] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.18}}
+[2024-11-25 20:17:03] Registro escrito en CSV: NTU=68.6, pH=7.18
+[2024-11-25 20:17:03] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:05] Datos recibidos: {"datos":{"ntu":64.4,"ph":7.21}}
+[2024-11-25 20:17:05] Registro escrito en CSV: NTU=64.4, pH=7.21
+[2024-11-25 20:17:05] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:06] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.18}}
+[2024-11-25 20:17:06] Registro escrito en CSV: NTU=65.8, pH=7.18
+[2024-11-25 20:17:06] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:08] Datos recibidos: {"datos":{"ntu":64.4,"ph":7.21}}
+[2024-11-25 20:17:08] Registro escrito en CSV: NTU=64.4, pH=7.21
+[2024-11-25 20:17:08] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:10] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.21}}
+[2024-11-25 20:17:10] Registro escrito en CSV: NTU=65.8, pH=7.21
+[2024-11-25 20:17:10] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:12] Datos recibidos: {"datos":{"ntu":64.4,"ph":7.25}}
+[2024-11-25 20:17:12] Registro escrito en CSV: NTU=64.4, pH=7.25
+[2024-11-25 20:17:12] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:13] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.18}}
+[2024-11-25 20:17:13] Registro escrito en CSV: NTU=65.8, pH=7.18
+[2024-11-25 20:17:13] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:15] Datos recibidos: {"datos":{"ntu":64.4,"ph":7.21}}
+[2024-11-25 20:17:15] Registro escrito en CSV: NTU=64.4, pH=7.21
+[2024-11-25 20:17:15] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:17] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.25}}
+[2024-11-25 20:17:17] Registro escrito en CSV: NTU=65.8, pH=7.25
+[2024-11-25 20:17:17] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:19] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.15}}
+[2024-11-25 20:17:19] Registro escrito en CSV: NTU=67.2, pH=7.15
+[2024-11-25 20:17:19] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:20] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.28}}
+[2024-11-25 20:17:20] Registro escrito en CSV: NTU=65.8, pH=7.28
+[2024-11-25 20:17:20] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:22] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.21}}
+[2024-11-25 20:17:22] Registro escrito en CSV: NTU=65.8, pH=7.21
+[2024-11-25 20:17:22] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:24] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.15}}
+[2024-11-25 20:17:24] Registro escrito en CSV: NTU=67.2, pH=7.15
+[2024-11-25 20:17:24] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:26] Datos recibidos: {"datos":{"ntu":64.4,"ph":7.25}}
+[2024-11-25 20:17:26] Registro escrito en CSV: NTU=64.4, pH=7.25
+[2024-11-25 20:17:26] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:27] Datos recibidos: {"datos":{"ntu":64.4,"ph":7.21}}
+[2024-11-25 20:17:27] Registro escrito en CSV: NTU=64.4, pH=7.21
+[2024-11-25 20:17:27] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:29] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.02}}
+[2024-11-25 20:17:29] Registro escrito en CSV: NTU=69.1, pH=7.02
+[2024-11-25 20:17:29] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:31] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.21}}
+[2024-11-25 20:17:31] Registro escrito en CSV: NTU=65.8, pH=7.21
+[2024-11-25 20:17:31] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:33] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.15}}
+[2024-11-25 20:17:33] Registro escrito en CSV: NTU=67.2, pH=7.15
+[2024-11-25 20:17:33] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:34] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.21}}
+[2024-11-25 20:17:34] Registro escrito en CSV: NTU=67.2, pH=7.21
+[2024-11-25 20:17:34] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:36] Datos recibidos: {"datos":{"ntu":72.8,"ph":7.05}}
+[2024-11-25 20:17:36] Registro escrito en CSV: NTU=72.8, pH=7.05
+[2024-11-25 20:17:36] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:38] Datos recibidos: {"datos":{"ntu":72.8,"ph":6.95}}
+[2024-11-25 20:17:38] Registro escrito en CSV: NTU=72.8, pH=6.95
+[2024-11-25 20:17:38] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:40] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.15}}
+[2024-11-25 20:17:40] Registro escrito en CSV: NTU=68.6, pH=7.15
+[2024-11-25 20:17:40] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:41] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.21}}
+[2024-11-25 20:17:41] Registro escrito en CSV: NTU=65.8, pH=7.21
+[2024-11-25 20:17:41] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:43] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.09}}
+[2024-11-25 20:17:43] Registro escrito en CSV: NTU=69.1, pH=7.09
+[2024-11-25 20:17:43] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:45] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.28}}
+[2024-11-25 20:17:45] Registro escrito en CSV: NTU=67.2, pH=7.28
+[2024-11-25 20:17:45] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:47] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.18}}
+[2024-11-25 20:17:47] Registro escrito en CSV: NTU=68.6, pH=7.18
+[2024-11-25 20:17:47] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:48] Datos recibidos: {"datos":{"ntu":68.6,"ph":7.15}}
+[2024-11-25 20:17:48] Registro escrito en CSV: NTU=68.6, pH=7.15
+[2024-11-25 20:17:48] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:50] Datos recibidos: {"datos":{"ntu":72.8,"ph":7.09}}
+[2024-11-25 20:17:50] Registro escrito en CSV: NTU=72.8, pH=7.09
+[2024-11-25 20:17:50] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:52] Datos recibidos: {"datos":{"ntu":69.1,"ph":7.02}}
+[2024-11-25 20:17:52] Registro escrito en CSV: NTU=69.1, pH=7.02
+[2024-11-25 20:17:52] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:54] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.02}}
+[2024-11-25 20:17:54] Registro escrito en CSV: NTU=71.4, pH=7.02
+[2024-11-25 20:17:54] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:55] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.25}}
+[2024-11-25 20:17:55] Registro escrito en CSV: NTU=67.2, pH=7.25
+[2024-11-25 20:17:55] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:57] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.28}}
+[2024-11-25 20:17:57] Registro escrito en CSV: NTU=65.8, pH=7.28
+[2024-11-25 20:17:57] Datos almacenados exitosamente en CSV
+[2024-11-25 20:17:59] Datos recibidos: {"datos":{"ntu":65.8,"ph":7.21}}
+[2024-11-25 20:17:59] Registro escrito en CSV: NTU=65.8, pH=7.21
+[2024-11-25 20:17:59] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:00] Datos recibidos: {"datos":{"ntu":67.2,"ph":7.21}}
+[2024-11-25 20:18:00] Registro escrito en CSV: NTU=67.2, pH=7.21
+[2024-11-25 20:18:00] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:02] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.02}}
+[2024-11-25 20:18:02] Registro escrito en CSV: NTU=71.4, pH=7.02
+[2024-11-25 20:18:02] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:04] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.09}}
+[2024-11-25 20:18:04] Registro escrito en CSV: NTU=71.4, pH=7.09
+[2024-11-25 20:18:04] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:06] Datos recibidos: {"datos":{"ntu":72.8,"ph":7.02}}
+[2024-11-25 20:18:06] Registro escrito en CSV: NTU=72.8, pH=7.02
+[2024-11-25 20:18:06] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:07] Datos recibidos: {"datos":{"ntu":71.4,"ph":7.21}}
+[2024-11-25 20:18:07] Registro escrito en CSV: NTU=71.4, pH=7.21
+[2024-11-25 20:18:07] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:09] Datos recibidos: {"datos":{"ntu":75.5,"ph":7.09}}
+[2024-11-25 20:18:09] Registro escrito en CSV: NTU=75.5, pH=7.09
+[2024-11-25 20:18:09] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:11] Datos recibidos: {"datos":{"ntu":74.2,"ph":7.05}}
+[2024-11-25 20:18:11] Registro escrito en CSV: NTU=74.2, pH=7.05
+[2024-11-25 20:18:11] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:13] Datos recibidos: {"datos":{"ntu":51.8,"ph":7.5}}
+[2024-11-25 20:18:13] Registro escrito en CSV: NTU=51.8, pH=7.5
+[2024-11-25 20:18:13] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:14] Datos recibidos: {"datos":{"ntu":51.8,"ph":7.53}}
+[2024-11-25 20:18:14] Registro escrito en CSV: NTU=51.8, pH=7.53
+[2024-11-25 20:18:14] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:16] Datos recibidos: {"datos":{"ntu":51.8,"ph":7.44}}
+[2024-11-25 20:18:16] Registro escrito en CSV: NTU=51.8, pH=7.44
+[2024-11-25 20:18:16] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:18] Datos recibidos: {"datos":{"ntu":50.4,"ph":7.41}}
+[2024-11-25 20:18:18] Registro escrito en CSV: NTU=50.4, pH=7.41
+[2024-11-25 20:18:18] Datos almacenados exitosamente en CSV
+[2024-11-25 20:18:20] Datos recibidos: {"datos":{"ntu":51.8,"ph":7.37}}
+[2024-11-25 20:18:20] Registro escrito en CSV: NTU=51.8, pH=7.37
+[2024-11-25 20:18:20] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:43] Datos recibidos: {"datos":{"ntu":0,"ph":8.94}}
+[2024-11-25 21:44:43] Registro escrito en CSV: NTU=0, pH=8.94
+[2024-11-25 21:44:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:43] Datos recibidos: {"datos":{"ntu":0,"ph":8.71}}
+[2024-11-25 21:44:43] Registro escrito en CSV: NTU=0, pH=8.71
+[2024-11-25 21:44:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:43] Datos recibidos: {"datos":{"ntu":0,"ph":8.52}}
+[2024-11-25 21:44:43] Registro escrito en CSV: NTU=0, pH=8.52
+[2024-11-25 21:44:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:43] Datos recibidos: {"datos":{"ntu":0,"ph":8.39}}
+[2024-11-25 21:44:43] Registro escrito en CSV: NTU=0, pH=8.39
+[2024-11-25 21:44:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:44] Datos recibidos: {"datos":{"ntu":0,"ph":8.3}}
+[2024-11-25 21:44:44] Registro escrito en CSV: NTU=0, pH=8.3
+[2024-11-25 21:44:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:44] Datos recibidos: {"datos":{"ntu":0,"ph":8.27}}
+[2024-11-25 21:44:44] Registro escrito en CSV: NTU=0, pH=8.27
+[2024-11-25 21:44:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:44] Datos recibidos: {"datos":{"ntu":0,"ph":8.11}}
+[2024-11-25 21:44:44] Registro escrito en CSV: NTU=0, pH=8.11
+[2024-11-25 21:44:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:44] Datos recibidos: {"datos":{"ntu":0,"ph":8.07}}
+[2024-11-25 21:44:44] Registro escrito en CSV: NTU=0, pH=8.07
+[2024-11-25 21:44:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.98}}
+[2024-11-25 21:44:44] Registro escrito en CSV: NTU=0, pH=7.98
+[2024-11-25 21:44:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.79}}
+[2024-11-25 21:44:45] Registro escrito en CSV: NTU=0, pH=7.79
+[2024-11-25 21:44:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.72}}
+[2024-11-25 21:44:45] Registro escrito en CSV: NTU=0, pH=7.72
+[2024-11-25 21:44:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.72}}
+[2024-11-25 21:44:45] Registro escrito en CSV: NTU=0, pH=7.72
+[2024-11-25 21:44:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.69}}
+[2024-11-25 21:44:45] Registro escrito en CSV: NTU=0, pH=7.69
+[2024-11-25 21:44:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.66}}
+[2024-11-25 21:44:46] Registro escrito en CSV: NTU=0, pH=7.66
+[2024-11-25 21:44:46] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.63}}
+[2024-11-25 21:44:47] Registro escrito en CSV: NTU=0, pH=7.63
+[2024-11-25 21:44:47] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.69}}
+[2024-11-25 21:44:49] Registro escrito en CSV: NTU=0, pH=7.69
+[2024-11-25 21:44:49] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.69}}
+[2024-11-25 21:44:51] Registro escrito en CSV: NTU=0, pH=7.69
+[2024-11-25 21:44:51] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.63}}
+[2024-11-25 21:44:53] Registro escrito en CSV: NTU=0, pH=7.63
+[2024-11-25 21:44:53] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.66}}
+[2024-11-25 21:44:54] Registro escrito en CSV: NTU=0, pH=7.66
+[2024-11-25 21:44:54] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.66}}
+[2024-11-25 21:44:56] Registro escrito en CSV: NTU=0, pH=7.66
+[2024-11-25 21:44:56] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.63}}
+[2024-11-25 21:44:58] Registro escrito en CSV: NTU=0, pH=7.63
+[2024-11-25 21:44:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:44:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.63}}
+[2024-11-25 21:44:59] Registro escrito en CSV: NTU=0, pH=7.63
+[2024-11-25 21:44:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.66}}
+[2024-11-25 21:45:01] Registro escrito en CSV: NTU=0, pH=7.66
+[2024-11-25 21:45:01] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.6}}
+[2024-11-25 21:45:03] Registro escrito en CSV: NTU=0, pH=7.6
+[2024-11-25 21:45:03] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.63}}
+[2024-11-25 21:45:05] Registro escrito en CSV: NTU=0, pH=7.63
+[2024-11-25 21:45:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.63}}
+[2024-11-25 21:45:07] Registro escrito en CSV: NTU=0, pH=7.63
+[2024-11-25 21:45:07] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.63}}
+[2024-11-25 21:45:27] Registro escrito en CSV: NTU=0, pH=7.63
+[2024-11-25 21:45:27] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.6}}
+[2024-11-25 21:45:27] Registro escrito en CSV: NTU=0, pH=7.6
+[2024-11-25 21:45:27] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:45:29] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:45:29] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 21:45:31] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 21:45:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 21:45:33] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 21:45:33] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 21:45:34] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 21:45:34] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 21:45:36] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 21:45:36] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:45:38] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:45:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.6}}
+[2024-11-25 21:45:40] Registro escrito en CSV: NTU=0, pH=7.6
+[2024-11-25 21:45:40] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:45:41] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:45:41] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:45:43] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:45:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.6}}
+[2024-11-25 21:45:45] Registro escrito en CSV: NTU=0, pH=7.6
+[2024-11-25 21:45:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 21:45:47] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 21:45:47] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.6}}
+[2024-11-25 21:45:48] Registro escrito en CSV: NTU=0, pH=7.6
+[2024-11-25 21:45:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:45:50] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:45:50] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:45:52] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:45:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.63}}
+[2024-11-25 21:45:54] Registro escrito en CSV: NTU=0, pH=7.63
+[2024-11-25 21:45:54] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:45:55] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:45:55] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:45:57] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:45:57] Datos almacenados exitosamente en CSV
+[2024-11-25 21:45:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:45:59] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:45:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:46:01] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:46:01] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 21:46:02] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 21:46:02] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:46:04] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:46:04] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:46:06] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:46:06] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:46:48] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:46:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:46:48] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:46:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:46:49] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:46:49] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:46:51] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:46:51] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 21:46:53] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 21:46:53] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 21:46:55] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 21:46:55] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:46:56] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:46:56] Datos almacenados exitosamente en CSV
+[2024-11-25 21:46:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:46:58] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:46:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:47:00] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:47:00] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:47:01] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:47:01] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:03] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:03] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:47:05] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:47:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:47:07] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:47:07] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:08] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:47:08] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:47:08] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:47:10] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:47:10] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:47:28] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:47:28] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:28] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:28] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:29] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:29] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:31] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:47:33] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:47:33] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:34] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:34] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:47:36] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:47:36] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:47:38] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:47:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:40] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:40] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:41] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:41] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:43] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:45] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:47] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:47] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:47:48] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:47:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:50] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:50] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:52] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:54] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:54] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:47:55] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:47:55] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:47:57] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:47:57] Datos almacenados exitosamente en CSV
+[2024-11-25 21:47:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 21:47:59] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 21:47:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:00] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:00] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:02] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:02] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:48:04] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:48:04] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:48:06] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:48:06] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:48:07] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:48:07] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:48:09] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:48:09] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:48:11] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:48:11] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:13] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:13] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:13] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:48:14] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:48:14] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:16] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:16] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:48:18] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:48:18] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:20] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:48:20] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:48:20] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:48:21] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:48:21] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:48:23] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:48:23] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:48:25] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:48:25] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:26] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:26] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:48:28] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:48:28] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:48:30] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:48:30] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:48:32] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:48:32] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:33] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:33] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:48:35] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:48:35] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:48:37] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:48:37] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:48:39] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:48:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:48:40] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:48:40] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:42] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:42] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:48:44] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:48:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:46] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:46] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:48:47] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:48:47] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:48:49] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:48:49] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:51] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:51] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:53] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:53] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:48:54] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:48:54] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:48:56] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:48:56] Datos almacenados exitosamente en CSV
+[2024-11-25 21:48:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:48:58] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:48:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:00] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:00] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:01] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:01] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:03] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:03] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:05] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:49:06] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:49:06] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:08] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:08] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:08] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:10] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:10] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:12] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:13] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:13] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:13] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:15] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:49:15] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:49:15] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:49:17] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:49:17] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:49:19] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:49:19] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:20] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:20] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:20] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:49:22] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:49:22] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:24] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:24] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:26] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:26] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:27] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:27] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:29] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:29] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:49:31] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:49:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:49:33] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:49:33] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:34] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:34] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:49:36] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:49:36] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:38] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:49:39] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:49:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:41] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:41] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:43] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:45] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:49:46] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:49:46] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:49:48] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:49:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:50] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:50] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:52] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:53] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:53] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:49:55] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:49:55] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:49:57] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:49:57] Datos almacenados exitosamente en CSV
+[2024-11-25 21:49:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:49:59] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:49:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:50:00] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:50:00] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:02] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:02] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:04] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:04] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:50:06] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:50:06] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:07] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:07] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:50:09] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:50:09] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:50:11] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:50:11] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:50:12] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:50:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:50:14] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:50:14] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.31}}
+[2024-11-25 21:50:16] Registro escrito en CSV: NTU=0, pH=7.31
+[2024-11-25 21:50:16] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:18] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:18] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:19] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:19] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:21] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:21] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:23] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:23] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:50:25] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:50:25] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:50:26] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:50:26] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:50:28] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:50:28] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:50:30] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:50:30] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:32] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:32] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:50:33] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:50:33] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:50:35] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:50:35] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:50:37] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:50:37] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:39] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:50:40] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:50:40] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:50:42] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:50:42] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:44] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:50:46] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:50:46] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:47] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:47] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:49] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:49] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:51] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:51] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:52] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:54] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:54] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:50:56] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:50:56] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:50:58] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:50:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:50:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:50:59] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:50:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:51:01] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:51:01] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:03] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:03] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:05] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:51:06] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:51:06] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:08] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:51:08] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:51:08] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:10] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:10] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:12] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:13] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:51:13] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:51:13] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:15] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:51:15] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:51:15] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:51:17] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:51:17] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:19] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:19] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:20] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:51:20] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:51:20] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:51:22] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:51:22] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:24] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:24] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:26] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:26] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:51:27] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:51:27] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:51:29] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:51:29] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:51:31] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:51:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:51:32] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:51:32] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:51:34] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:51:34] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:51:36] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:51:36] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:51:38] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:51:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:51:39] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:51:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:51:41] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:51:41] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:51:43] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:51:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:51:45] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:51:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:51:46] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:51:46] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:48] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:51:50] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:51:50] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:51:52] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:51:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:53] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:53] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:51:55] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:51:55] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:51:57] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:51:57] Datos almacenados exitosamente en CSV
+[2024-11-25 21:51:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:51:59] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:51:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:52:00] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:52:00] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:02] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:02] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:52:04] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:52:04] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:05] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:07] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:07] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:09] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:09] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:11] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:11] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:52:12] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:52:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:14] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:14] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:52:16] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:52:16] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.31}}
+[2024-11-25 21:52:18] Registro escrito en CSV: NTU=0, pH=7.31
+[2024-11-25 21:52:18] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:52:19] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:52:19] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:52:21] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:52:21] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.31}}
+[2024-11-25 21:52:23] Registro escrito en CSV: NTU=0, pH=7.31
+[2024-11-25 21:52:23] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:52:25] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:52:25] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:52:26] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:52:26] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:52:28] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:52:28] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:30] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:30] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:32] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:32] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:33] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:33] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:52:35] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:52:35] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:52:37] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:52:37] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:52:39] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:52:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:52:40] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:52:40] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:52:42] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:52:42] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:52:44] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:52:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:45] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:47] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:47] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:52:49] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:52:49] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:52:51] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:52:51] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:52:52] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:52:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:52:54] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:52:54] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:52:56] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:52:56] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:52:58] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:52:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:52:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:52:59] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:52:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:53:01] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:53:01] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:53:03] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:53:03] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:53:05] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:53:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:53:06] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:53:06] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:08] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:53:08] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:53:08] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:53:10] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:53:10] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:53:12] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:53:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:13] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:53:13] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:53:13] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:15] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:53:15] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:53:15] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:53:17] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:53:17] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:53:19] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:53:19] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:20] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:53:20] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:53:20] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:53:22] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:53:22] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:53:24] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:53:24] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:53:26] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:53:26] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:53:27] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:53:27] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:53:29] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:53:29] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:53:31] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:53:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:53:32] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:53:32] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:53:34] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:53:34] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:53:36] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:53:36] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:53:38] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:53:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:53:39] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:53:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:53:41] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:53:41] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:53:43] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:53:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:53:45] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:53:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:53:46] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:53:46] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:53:48] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:53:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:53:50] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:53:50] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:53:52] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:53:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:53:53] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:53:53] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:53:55] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:53:55] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:53:57] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:53:57] Datos almacenados exitosamente en CSV
+[2024-11-25 21:53:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:53:59] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:53:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:54:00] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:54:00] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:02] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:02] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:54:04] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:54:04] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:54:05] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:54:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:54:07] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:54:07] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:54:09] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:54:09] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:54:11] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:54:11] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:54:12] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:54:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:54:14] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:54:14] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:54:16] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:54:16] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:18] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:18] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:19] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:19] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:54:21] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:54:21] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:54:23] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:54:23] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:54:25] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:54:25] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:26] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:26] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:54:28] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:54:28] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:54:30] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:54:30] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:32] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:32] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:54:33] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:54:33] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:35] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:35] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:37] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:37] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:54:39] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:54:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:54:40] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:54:40] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:54:42] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:54:42] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:54:44] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:54:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:54:45] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:54:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:47] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:47] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:49] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:49] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:51] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:51] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:54:52] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:54:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:54:54] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:54:54] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:54:56] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:54:56] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:54:58] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:54:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:54:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:54:59] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:54:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:01] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:01] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:55:03] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:55:03] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:55:05] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:55:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:06] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:06] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:08] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:55:08] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:55:08] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:55:10] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:55:10] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:12] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:13] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:55:13] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:55:13] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:15] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:55:15] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:55:15] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:17] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:17] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:19] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:19] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:20] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:20] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:20] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:55:22] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:55:22] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:24] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:24] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:25] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:25] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:55:27] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:55:27] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:29] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:29] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:31] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:32] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:32] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:55:34] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:55:34] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:36] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:36] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:38] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:39] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:55:41] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:55:41] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:43] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:55:45] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:55:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:55:46] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:55:46] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:55:48] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:55:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:50] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:50] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:52] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:53] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:53] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:55] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:55] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:55:57] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:55:57] Datos almacenados exitosamente en CSV
+[2024-11-25 21:55:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:55:58] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:55:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:00] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:00] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:56:02] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:56:02] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:56:04] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:56:04] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:56:05] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:56:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:56:07] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:56:07] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:56:09] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:56:09] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:56:11] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:56:11] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:12] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:14] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:14] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:21] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:21] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:56:21] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:56:21] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:21] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:21] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:56:28] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:56:28] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:56:28] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:56:28] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:56:30] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:56:30] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.31}}
+[2024-11-25 21:56:31] Registro escrito en CSV: NTU=0, pH=7.31
+[2024-11-25 21:56:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:33] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:33] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:56:35] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:56:35] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:56:37] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:56:37] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:56:38] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:56:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:40] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:40] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:56:42] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:56:42] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:44] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:45] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:56:47] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:56:47] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:56:49] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:56:49] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:51] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:51] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:52] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:56:54] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:56:54] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:56:56] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:56:56] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:56:58] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:56:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:56:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:56:59] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:56:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:01] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:01] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:57:03] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:57:03] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:57:05] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:57:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:06] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:06] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:08] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:57:08] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:57:08] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:10] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:10] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:57:12] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:57:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:13] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:13] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:13] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:15] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:57:15] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:57:15] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:17] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:17] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:57:18] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:57:18] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:20] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:20] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:20] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:57:22] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:57:22] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:57:24] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:57:24] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:57:25] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:57:25] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:27] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:27] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:57:29] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:57:29] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:57:31] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:57:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:57:32] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:57:32] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:57:34] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:57:34] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:57:36] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:57:36] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:57:38] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:57:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:39] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:57:41] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:57:41] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:57:43] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:57:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:57:45] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:57:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:57:46] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:57:46] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:48] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:57:50] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:57:50] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:57:52] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:57:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:53] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:53] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:57:55] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:57:55] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:57] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:57] Datos almacenados exitosamente en CSV
+[2024-11-25 21:57:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:57:58] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:57:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:58:00] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:58:00] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:02] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:02] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:04] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:04] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:58:05] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:58:05] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:07] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:07] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:09] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:09] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:11] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:11] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:12] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:12] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:14] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:14] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:16] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:16] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:18] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:18] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:19] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:19] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:21] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:21] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:23] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:23] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:25] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:25] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:58:26] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:58:26] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:58:28] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:58:28] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:30] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:30] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:58:31] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:58:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:58:33] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:58:33] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:35] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:35] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:58:37] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:58:37] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:58:38] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:58:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:58:40] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:58:40] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:58:42] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:58:42] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:58:44] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:58:44] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:58:45] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:58:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:47] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:47] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:58:49] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:58:49] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:58:51] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:58:51] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:58:52] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:58:52] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:54] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:54] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:56] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:56] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:58] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:58] Datos almacenados exitosamente en CSV
+[2024-11-25 21:58:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:58:59] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:58:59] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:59:01] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:59:01] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:59:03] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:59:03] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 21:59:22] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 21:59:22] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:59:22] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:59:22] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:59:24] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:59:24] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:59:25] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:59:25] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:59:27] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:59:27] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:59:29] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:59:29] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:59:31] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:59:31] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:59:32] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:59:32] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:59:34] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:59:34] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:59:36] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:59:36] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:59:38] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:59:38] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:59:39] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:59:39] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 21:59:41] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 21:59:41] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:59:43] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:59:43] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 21:59:45] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 21:59:45] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:59:46] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:59:46] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 21:59:48] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 21:59:48] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:59:50] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:59:50] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:59:51] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:59:51] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:59:53] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:59:53] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 21:59:55] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 21:59:55] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 21:59:57] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 21:59:57] Datos almacenados exitosamente en CSV
+[2024-11-25 21:59:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 21:59:58] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 21:59:58] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:00:00] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:00:00] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:00:02] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:00:02] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:00:04] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:00:04] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:00:05] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:00:05] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:00:07] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:00:07] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:00:09] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:00:09] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:00:11] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:00:11] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:00:12] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:00:12] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:00:14] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:00:14] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:00:16] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:00:16] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:00:18] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:00:18] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:00:19] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:00:19] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:00:21] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:00:21] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:00:23] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:00:23] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:00:24] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:00:24] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 22:00:26] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 22:00:26] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:00:28] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:00:28] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 22:00:30] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 22:00:30] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:00:32] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:00:32] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:00:33] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:00:33] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:00:35] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:00:35] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:00:37] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:00:37] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:00:38] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:00:38] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:00:40] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:00:40] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:00:42] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:00:42] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:00:44] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:00:44] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:00:45] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:00:45] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:00:47] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:00:47] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:00:49] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:00:49] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:00:51] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:00:51] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:00:52] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:00:52] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 22:00:54] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 22:00:54] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:00:56] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:00:56] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:00:58] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:00:58] Datos almacenados exitosamente en CSV
+[2024-11-25 22:00:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:00:59] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:00:59] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:01:01] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:01:01] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:03] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:03] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:01:05] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:01:05] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:06] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:06] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:08] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 22:01:08] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 22:01:08] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:01:10] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:01:10] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:01:11] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:01:11] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:13] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:01:13] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:01:13] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:15] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:15] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:15] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 22:01:17] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 22:01:17] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:01:18] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:01:18] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:20] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:20] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:20] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:22] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:22] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:01:24] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:01:24] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:01:25] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:01:25] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:01:27] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:01:27] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 22:01:29] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 22:01:29] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:01:31] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:01:31] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:01:32] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:01:32] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:01:34] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:01:34] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:01:36] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:01:36] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:01:37] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:01:37] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:39] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:39] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:41] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:41] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:01:43] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:01:43] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:01:44] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:01:44] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:01:46] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:01:46] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:48] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:48] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.34}}
+[2024-11-25 22:01:50] Registro escrito en CSV: NTU=0, pH=7.34
+[2024-11-25 22:01:50] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:01:51] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:01:51] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:53] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:53] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:01:55] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:01:55] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:57] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:57] Datos almacenados exitosamente en CSV
+[2024-11-25 22:01:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:01:58] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:01:58] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:00] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:00] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 22:02:02] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 22:02:02] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:02:04] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:02:04] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:05] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:05] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:07] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:07] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:09] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:09] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:10] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:10] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:02:12] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:02:12] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.31}}
+[2024-11-25 22:02:14] Registro escrito en CSV: NTU=0, pH=7.31
+[2024-11-25 22:02:14] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:02:16] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:02:16] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:17] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:17] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:19] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:19] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:21] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:21] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:02:23] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:02:23] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:02:24] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:02:24] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:26] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:26] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:28] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:28] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:30] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:30] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:02:31] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:02:31] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:02:33] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:02:33] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:35] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:35] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:02:37] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:02:37] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:38] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:38] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:40] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:40] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:42] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:42] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:02:44] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:02:44] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:45] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:45] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:02:47] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:02:47] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:49] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:49] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:51] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:51] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:52] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:52] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:54] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:54] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:02:56] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:02:56] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:57] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:57] Datos almacenados exitosamente en CSV
+[2024-11-25 22:02:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:02:59] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:02:59] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:03:01] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:03:01] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:03:03] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:03:03] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:03:04] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:03:04] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:03:06] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:03:06] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:08] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:03:08] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:03:08] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:03:10] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:03:10] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:03:11] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:03:11] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:13] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:03:13] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:03:13] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:15] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:03:15] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:03:15] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.37}}
+[2024-11-25 22:03:17] Registro escrito en CSV: NTU=0, pH=7.37
+[2024-11-25 22:03:17] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:03:18] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:03:18] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:20] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:03:20] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:03:20] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:03:22] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:03:22] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:03:23] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:03:23] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:03:25] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:03:25] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:03:27] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:03:27] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:03:29] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:03:29] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:03:30] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:03:30] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:03:32] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:03:32] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:03:34] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:03:34] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:03:36] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:03:36] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:03:37] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:03:37] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:03:39] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:03:39] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:03:41] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:03:41] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:03:43] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:03:43] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:03:44] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:03:44] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:03:46] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:03:46] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:03:48] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:03:48] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:03:50] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:03:50] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:51] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:03:51] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:03:51] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:53] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:03:53] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:03:53] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:03:55] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:03:55] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:03:57] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:03:57] Datos almacenados exitosamente en CSV
+[2024-11-25 22:03:58] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:03:58] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:03:58] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:00] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:00] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:00] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:04:02] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:04:02] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:03] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:03] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:04:05] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:04:05] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:04:07] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:04:07] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:04:09] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:04:09] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:04:10] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:04:10] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:04:12] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:04:12] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:04:14] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:04:14] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:04:16] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:04:16] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:04:17] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:04:17] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 22:04:19] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 22:04:19] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:21] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:21] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:23] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:23] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:04:24] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:04:24] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:26] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:26] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:04:28] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:04:28] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:30] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:30] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:31] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:31] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:04:33] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:04:33] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:04:35] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:04:35] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:04:37] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:04:37] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:04:38] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:04:38] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:40] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:40] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:04:42] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:04:42] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 22:04:43] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 22:04:43] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:04:45] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:04:45] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:47] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:47] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:04:49] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:04:49] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:04:50] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:04:50] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:52] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:52] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:52] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:04:54] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:04:54] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:04:56] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:04:56] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:57] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:04:57] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:04:57] Datos almacenados exitosamente en CSV
+[2024-11-25 22:04:59] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:04:59] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:04:59] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:05:01] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:05:01] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:03] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:03] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:04] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 22:05:04] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 22:05:04] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:06] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:05:06] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:05:06] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:08] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:08] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:08] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:05:09] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:05:09] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:11] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:11] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:11] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:13] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:05:13] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:05:13] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:15] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:05:15] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:05:15] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:05:16] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:05:16] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:18] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:05:18] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:05:18] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:20] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:20] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:20] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:22] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:22] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:22] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:23] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:23] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:25] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:25] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:25] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:27] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:05:27] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:05:27] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:29] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:29] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:30] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:30] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:30] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:32] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:05:32] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:05:32] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:34] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:05:34] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:05:34] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:36] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:36] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:37] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:37] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:37] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:39] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:39] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:39] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:41] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:41] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:41] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:43] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:43] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:44] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:05:44] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:05:44] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:46] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:46] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:46] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:48] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 22:05:48] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 22:05:48] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:50] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:50] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:50] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:54] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:54] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:54] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:05:54] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:05:54] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:55] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:05:55] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:05:55] Datos almacenados exitosamente en CSV
+[2024-11-25 22:05:56] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:05:56] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:05:56] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:06:01] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:06:01] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:01] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:01] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:01] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:02] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:06:02] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:06:02] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:03] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:06:03] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:06:03] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:05] Datos recibidos: {"datos":{"ntu":0,"ph":7.41}}
+[2024-11-25 22:06:05] Registro escrito en CSV: NTU=0, pH=7.41
+[2024-11-25 22:06:05] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:07] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:06:07] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:06:07] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:09] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:06:09] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:06:09] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:10] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:10] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:10] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:12] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:12] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:12] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:14] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:14] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:14] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:16] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:06:16] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:06:16] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:17] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:06:17] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:06:17] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:19] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:06:19] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:06:19] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:21] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:21] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:21] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:23] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:23] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:23] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:24] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:24] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:24] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:26] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:26] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:26] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:28] Datos recibidos: {"datos":{"ntu":0,"ph":7.44}}
+[2024-11-25 22:06:28] Registro escrito en CSV: NTU=0, pH=7.44
+[2024-11-25 22:06:28] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:29] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:29] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:29] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:31] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:06:31] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:06:31] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:33] Datos recibidos: {"datos":{"ntu":0,"ph":7.53}}
+[2024-11-25 22:06:33] Registro escrito en CSV: NTU=0, pH=7.53
+[2024-11-25 22:06:33] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:35] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 22:06:35] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 22:06:35] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:36] Datos recibidos: {"datos":{"ntu":0,"ph":7.6}}
+[2024-11-25 22:06:36] Registro escrito en CSV: NTU=0, pH=7.6
+[2024-11-25 22:06:36] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:38] Datos recibidos: {"datos":{"ntu":0,"ph":7.56}}
+[2024-11-25 22:06:38] Registro escrito en CSV: NTU=0, pH=7.56
+[2024-11-25 22:06:38] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:40] Datos recibidos: {"datos":{"ntu":0,"ph":7.5}}
+[2024-11-25 22:06:40] Registro escrito en CSV: NTU=0, pH=7.5
+[2024-11-25 22:06:40] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:42] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:42] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:42] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:43] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:43] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:43] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:45] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:45] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:45] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:47] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:47] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:47] Datos almacenados exitosamente en CSV
+[2024-11-25 22:06:49] Datos recibidos: {"datos":{"ntu":0,"ph":7.47}}
+[2024-11-25 22:06:49] Registro escrito en CSV: NTU=0, pH=7.47
+[2024-11-25 22:06:49] Datos almacenados exitosamente en CSV
