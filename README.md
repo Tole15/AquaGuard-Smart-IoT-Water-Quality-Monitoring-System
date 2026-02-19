@@ -202,19 +202,6 @@ This project demonstrates competency in:
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── firmware/
-│   ├── atmega328p/
-│   └── esp32/
-├── mobile_app/
-├── server/
-├── hardware/
-└── docs/
-```
-
----
 
 ## 👨‍💻 Author
 
