@@ -233,5 +233,3 @@ Contents include:
 ## 📜 License
 
 Academic and prototyping purposes only.
-
-Academic and prototyping purposes only.
