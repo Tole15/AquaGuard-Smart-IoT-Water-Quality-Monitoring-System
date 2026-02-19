@@ -1,210 +1,204 @@
 # 🌊 AquaGuard
-
-### Smart IoT Water Quality Monitoring System
-
-![Platform](https://img.shields.io/badge/MCU-ATmega328P-blue)
-![Connectivity](https://img.shields.io/badge/WiFi-ESP32-green)
-![Sensors](https://img.shields.io/badge/Sensors-pH%20%7C%20Turbidity%20%7C%20Temp-orange)
-![App](https://img.shields.io/badge/App-Flutter-blueviolet)
-![Cost](https://img.shields.io/badge/Cost-~1180MXN-critical)
+### Engineering Portfolio Project – Embedded Systems & IoT
 
 ---
 
-## 📌 Overview
+## 📌 Project Summary
 
-**AquaGuard** is an embedded + IoT system designed for real-time monitoring of water quality in:
+**AquaGuard** is a full-stack embedded IoT system for real-time water quality monitoring designed for residential and commercial applications.
 
-- 🏊 Swimming pools
-- 🏠 Residential water tanks (tinacos)
-- 🏨 Hotels & recreational centers
+The project integrates:
 
-The system continuously measures:
+- Embedded firmware development (ATmega328P)
+- Wireless communication (ESP32 – WiFi)
+- Backend API + Database integration
+- Mobile application (Flutter)
+- Sensor calibration & statistical validation
 
-- **pH**
-- **Turbidity (NTU)**
-- **Temperature (°C)**
+This project demonstrates practical competencies in:
 
-Data is processed locally and transmitted via Wi-Fi to a server and mobile application.
+- Embedded C development
+- ADC signal processing
+- Serial communication protocols
+- IoT architecture design
+- Statistical modeling & calibration
+- System integration & validation
+
+---
+
+## 🎯 Engineering Objectives
+
+- Design a reliable multi-sensor acquisition system
+- Implement real-time embedded processing
+- Develop wireless data transmission pipeline
+- Build end-to-end IoT infrastructure
+- Validate measurement accuracy statistically
+- Optimize sampling & system stability
 
 ---
 
 ## 🧠 System Architecture
 
 ```
-Sensors → ATmega328P → UART → ESP32 → Wi-Fi → Server/API → Flutter App
+Sensors → ATmega328P → UART → ESP32 → WiFi → REST API → Database → Mobile App
 ```
 
-### 🔹 Data Flow
+### Embedded Layer (ATmega328P)
 
-1. Sensors capture analog/digital signals.
-2. **ATmega328P**:
-   - Reads ADC channels (pH & turbidity)
-   - Applies calibration models
-   - Reads DS18B20 via 1-Wire
-   - Displays data on LCD
-   - Sends formatted string via UART
-3. **ESP32**:
-   - Parses incoming data
-   - Connects to Wi-Fi
-   - Sends JSON via HTTP POST
-4. **Server**:
-   - Stores data (MySQL)
-   - Provides REST API
-5. **Flutter App**:
-   - Displays real-time dashboard
-   - Shows historical graphs
-   - Sends alerts
+Responsibilities:
+
+- 10-bit ADC acquisition
+- Sensor signal conditioning
+- Polynomial & linear calibration models
+- 1-Wire protocol implementation (DS18B20)
+- LCD interface (HD44780)
+- UART formatted data transmission
+
+Technologies:
+
+- Embedded C
+- Interrupt-driven timing
+- Fixed-point data handling
+- Serial protocol framing
 
 ---
 
-## 🔬 Sensors & Measurement
+## 🔬 Sensors & Measurement Engineering
 
-| Parameter | Sensor | Range | Precision |
-|------------|--------|--------|-----------|
-| pH | E201-BNC | 0–14 | ±0.1 pH |
-| Turbidity | SEN0189 | 0–1000 NTU | ±5% FS |
-| Temperature | DS18B20 | -55°C to 125°C | ±0.5°C |
+| Parameter | Sensor | Interface | Engineering Consideration |
+|------------|--------|-----------|----------------------------|
+| pH | E201-BNC | Analog | Dual-slope calibration model |
+| Turbidity | SEN0189 | Analog | Polynomial regression fit |
+| Temperature | DS18B20 | 1-Wire | Digital CRC verification |
 
----
+### Calibration Approach
 
-## 📊 Calibration & Statistical Validation
+- MATLAB regression modeling
+- Error minimization techniques
+- 95% confidence interval validation
+- Hypothesis testing using t-distribution
 
-### 🔹 Turbidity
+Results:
 
-- Polynomial regression (MATLAB)
-- Error reduced from **10% → 2%**
-- Statistical error minimization
-
-### 🔹 pH
-
-- Dual linear model:
-  - Acid region (pH < 7)
-  - Basic region (pH ≥ 7)
-- Regression-based slope & intercept calibration
-
-### 🔹 Confidence Testing
-
-- ≥100 samples collected
-- 95% confidence level
-- t-distribution hypothesis testing
-- Low variance and consistent measurements
+- Turbidity error reduced from ~10% to ~2%
+- pH variance σ ≈ 0.042
+- Stable repeated measurements over 100+ samples
 
 ---
 
-## 📡 Communication Protocols
+## 📡 Communication Engineering
 
-### UART (ATmega ↔ ESP32)
+### UART (MCU ↔ ESP32)
 
 - 9600 bps
 - 8N1 configuration
-- NRZ encoding
+- Structured ASCII frame
+- Voltage level adaptation (5V → 3.3V divider)
 
-### Wi-Fi (ESP32 ↔ Server)
+### Wireless Layer (ESP32)
 
 - IEEE 802.11
-- OFDM modulation
-- QPSK / QAM schemes
-- HTTP + JSON data format
+- HTTP POST requests
+- JSON payload structure
+- Retry & timeout handling
 
 ---
 
-## 🖥 Mobile Application (Flutter)
+## 🖥 Backend & Application Layer
 
-Features:
+### REST API
+
+- Data ingestion endpoint
+- MySQL database storage
+- Structured query retrieval
+
+### Flutter Application
 
 - Real-time dashboard
-- Historical data visualization
-- Push notifications
+- Historical trend visualization
 - User authentication
-- REST API integration
-
-Implemented screens:
-
-- Login
-- SignUp
-- Dashboard
+- API integration
 
 ---
 
-## ⚙️ Sampling Strategy
+## ⚙️ Sampling & System Optimization
 
-| Sensor | Sampling Interval |
-|----------|------------------|
-| Turbidity | 5 seconds |
-| Temperature | 10 seconds |
-| pH | 30 seconds |
+| Sensor | Interval | Rationale |
+|----------|----------|-----------|
+| Turbidity | 5 s | Rapid contamination detection |
+| Temperature | 10 s | Slow dynamic response |
+| pH | 30 s | Chemical stabilization time |
 
-Optimized for:
+Design optimizations:
 
-- Stability
-- Energy efficiency
-- Noise reduction
-- Meaningful data acquisition
-
----
-
-## 💰 Cost Analysis
-
-**Estimated unit production cost:**
-
-```
-≈ $1,180 MXN
-```
-
-**Proposed selling price:**
-
-```
-$2,500 MXN
-```
-
-**Contribution margin:**
-
-```
-$1,320 MXN per unit
-```
-
-**Break-even point:**
-
-```
-≈ 76 units / month
-```
+- ADC noise reduction
+- Decoupling capacitors on AREF
+- 1-Wire pull-up resistor sizing
+- Structured firmware state machine
 
 ---
 
-## 🔒 Engineering Considerations
+## 📊 Validation & Testing
 
-- 10-bit ADC with AVCC reference filtering
-- 5V → 3.3V logic level adaptation (UART divider)
-- 1-Wire pull-up resistor (4.7kΩ)
-- LCD HD44780 timing compliance
-- Error handling & retry logic in Wi-Fi transmission
-- Data validation before server upload
+Verified:
 
----
+✔ Measurement repeatability  
+✔ Calibration consistency  
+✔ Serial data integrity  
+✔ WiFi transmission reliability  
+✔ API response correctness  
+✔ Mobile data visualization  
 
-## 📈 System Validation
+Testing methodology:
 
-Validated components:
-
-✔ Sensor accuracy  
-✔ Calibration model stability  
-✔ UART communication integrity  
-✔ Wi-Fi transmission reliability  
-✔ REST API functionality  
-✔ Mobile visualization  
-✔ Error handling mechanisms  
+- 100+ measurement samples
+- Statistical variance analysis
+- Controlled test environment comparison
 
 ---
 
-## 🚀 Future Improvements
+## 💰 Engineering Economics
 
-- Chlorine sensor integration
-- Electrical conductivity measurement
-- Solar-powered version
-- MQTT integration
-- End-to-end encryption
-- Industrial PCB design
-- IP-rated enclosure
+| Metric | Value |
+|--------|-------|
+| Production Cost | ~$1,180 MXN |
+| Proposed Price | ~$2,500 MXN |
+| Contribution Margin | ~$1,320 MXN |
+| Break-even Estimate | ~76 units/month |
+
+---
+
+## 🧩 Engineering Challenges Solved
+
+- Sensor noise & drift compensation
+- Mixed-voltage serial communication
+- WiFi reconnection robustness
+- Data parsing synchronization
+- Embedded memory constraints
+
+---
+
+## 🛠 Technical Skill Demonstration
+
+This project demonstrates competency in:
+
+- Embedded firmware design
+- Analog-to-digital conversion
+- Calibration algorithms
+- Serial communication protocols
+- IoT system architecture
+- Statistical data validation
+- Mobile & backend integration
+- Engineering cost analysis
+
+---
+
+## 🚀 Potential Industry Applications
+
+- Smart pool monitoring systems
+- Industrial water quality supervision
+- Residential IoT water safety
+- Remote environmental monitoring
 
 ---
 
@@ -215,19 +209,42 @@ Validated components:
 │   ├── atmega328p/
 │   └── esp32/
 ├── mobile_app/
-│   └── flutter_app/
 ├── server/
-│   ├── api/
-│   └── database/
 ├── hardware/
-│   ├── schematics/
-│   └── pcb/
 └── docs/
-    └── ReporteAquaguard5C.pdf
 ```
+
+---
+
+## 👨‍💻 Author
+
+César Alejandro Tolentino Mendoza  
+Engineering Student – Embedded Systems & Telecommunications  
+Universidad de Colima
+
+---
+
+---
+
+## 📎 Annexes & Supporting Documentation
+
+Additional technical material, raw data, extended reports, source files, and supplementary validation documents are available at:
+
+🔗 **Google Drive – AquaGuard Annexes:**  
+https://drive.google.com/drive/folders/1Fcnc_8k_u9e0-7VuJrHMsaWL_Mp7221n?usp=sharing
+
+Contents include:
+
+- Extended engineering report
+- Calibration datasets
+- Statistical validation analysis
+- Experimental test evidence
+- Additional schematics and documentation
 
 ---
 
 ## 📜 License
 
-This project is provided for academic, research, and prototyping purposes.
+Academic and prototyping purposes only.
+
+Academic and prototyping purposes only.
